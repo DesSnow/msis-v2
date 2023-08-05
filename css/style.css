@@ -46,7 +46,31 @@
 }
   
 
+/***Divisions***/
 
+.division-div{
+    height: 700px;
+    overflow: hidden;
+}
+
+.divisons{
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.division-img{
+    width: 75% !important;
+}
+
+.divisons-mb-1{
+    font-size: 2em;
+}
+
+.owl-item{
+    padding: 10px;
+}
 
 /*** Spinner ***/
 #spinner {
