@@ -79,7 +79,7 @@
 }
 
 .owl-item{
-    padding: 10px;
+    /* padding: 10px; */
 }
 
 /*** Spinner ***/
@@ -157,7 +157,6 @@ h6,
 .btn.btn-secondary-gradient {
     position: relative;
     overflow: hidden;
-    border: none;
     color: #FFFFFF;
     z-index: 1;
 }
