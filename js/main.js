@@ -57,10 +57,11 @@
     });
 
 
-    // Facts counter
-    $('[data-toggle="countr-up"]').counterUp({
-        delay: 10,
-        time: 1000
+    $(document).ready(function() {
+        $('[data-toggle="countr-up"]').counterUp({
+            delay: 10,
+            time: 1000
+        });
     });
 
 
